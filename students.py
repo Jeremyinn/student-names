@@ -3,6 +3,10 @@ studentlist = ['matt',
     'Justin','Hassan','Jeremy',
      'Chase',
       'Zach',
+      'Samuel',
+       'Lisa',
+        'Hillary',
+         'Abel',
     ]
 
 for student in studentlist:
