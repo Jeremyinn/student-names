@@ -1,6 +1,6 @@
 studentlist = ['matt', 
     'Justin',
-     'Hassan',
+     'Hassan','Jeremy'
     ]
 
 for student in studentlist:
